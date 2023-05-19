@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhesh4501&label=Profile%20views&color=0e75b6&style=flat" alt="siddhesh4501" /> </p>
 
-- 🌱 I’m currently learning **Oracle SQL and PL/SQL**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Siddhesh4501](https://github.com/Siddhesh4501)
 
-- 💬 Ask me about **MERN stack, SQL, DSA**
+- 💬 Ask me about **MERN stack, SQL, DSA, Oracle SQL and PL/SQL**
 
 - 📫 How to reach me **pawarsd20.comp@coep.ac.in**
 
